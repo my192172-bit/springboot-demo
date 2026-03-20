@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Public doc on main
+=======
+Adding new conflict
+aquelle still water
+patrick is home
+HELLO EVERYONE!
+We want to create a conflict
+>>>>>>> 52918350dadb0d4f1bc364694df2f3929f6d69c5
