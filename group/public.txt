@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 Brian Roba changes
+=======
+roba changes
+Adding new conflict
+aquelle still water
+patrick is home
+HELLO EVERYONE!
+We want to create a conflict
+Brian Conflict
+
+>>>>>>> b4b162c9c1ba961632265f2069f2acd574690a77
